@@ -10,6 +10,7 @@ Audits performed by Somish Blockchain Labs https://www.somish.com/
 * [Assure Network](https://github.com/somish/smartcontract-audits/blob/master/AsureNetwork%20Audit%20Report.pdf)
 * [Boid Token](https://github.com/somish/smartcontract-audits/blob/master/Boid%20Token%20Audit%20Report.pdf)
 * [Bolt Global](https://github.com/somish/smartcontract-audits/blob/master/Bolt.Global%20Audit%20Report.pdf)
+* [CoinBreederDAO](https://github.com/somish/smartcontract-audits/blob/master/CoinBreederDAO%20Audit%20Report.pdf)
 * [Fish n Chips](https://github.com/somish/smartcontract-audits/blob/master/FishnChips%20Audit.pdf)
 * [GoodDollar Contracts](https://github.com/somish/smartcontract-audits/blob/master/GoodContracts%20Audit%20Report%20Final.pdf)
 * [Hip Token](https://github.com/somish/smartcontract-audits/blob/master/Hip%20Token%20Report.pdf)
